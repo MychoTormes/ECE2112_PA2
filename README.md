@@ -87,7 +87,9 @@ Here are the following steps on how is it done:
 
 ## Files
 To know whether it works or not, my codes are here:
-     Divisble_by_3.ipynb
+      
+      Divisble by 3.ipynb
 
 Here is the saved array file:
-     .npy
+      
+      Div_by_3.npy
