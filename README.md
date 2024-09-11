@@ -1,6 +1,7 @@
 # ECE2112_PA2: NUMERICAL PYTHON (NUMPY)
 
 # PROBLEM 1: 
+#### Normalization Problem:
 Normalization is one of the most basic preprocessing techniques in
 data analytics. This involves centering and scaling process. Centering means subtracting the data from the
 mean and scaling means dividing with its standard deviation. Mathematically, normalization can be
@@ -49,9 +50,15 @@ To know whether it works or not, my codes are here:
 Here is the saved array file:
      X_Normalize.npy
 
+## Reference
+     Numpy.ipynb
+And
+     
+     Numpy Cheat Sheet.pdf
 
 # PROBLEM 2:
-     Create the following 10 x 10 ndarray.
+#### Divisible By 3 Problem:
+Create the following 10 x 10 ndarray.
 
 
      A =  [1    4    ⋯   81    100
@@ -93,3 +100,10 @@ To know whether it works or not, my codes are here:
 Here is the saved array file:
       
       Div_by_3.npy
+
+## Reference
+     
+     Numpy.ipynb
+And
+     
+     Numpy Cheat Sheet.pdf
