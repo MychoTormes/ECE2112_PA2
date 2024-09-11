@@ -42,6 +42,10 @@ Here are the steps on how is it done:
 
      np.save('X_normalize.npy', s)
 
+## Files
+To know whether it works or not, my codes are here:
+     
+
 
 
 # PROBLEM 2:
