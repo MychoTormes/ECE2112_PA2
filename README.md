@@ -1,6 +1,6 @@
 # ECE2112_PA2: NUMERICAL PYTHON (NUMPY)
 
-# NORMALIZATION PROBLEM: 
+# PROBLEM 1: 
 Normalization is one of the most basic preprocessing techniques in
 data analytics. This involves centering and scaling process. Centering means subtracting the data from the
 mean and scaling means dividing with its standard deviation. Mathematically, normalization can be
@@ -17,10 +17,11 @@ ndarray as X_normalized.npy
 
 This is how I make the array:
 
-## Array
+## Background
+#### Import Numerical Python
 import numpy as np
 
-#### #Define normalize and use the formula:
+#### Define normalize and use the formula:
 
 def normalize(x):
 
@@ -30,20 +31,20 @@ def normalize(x):
      
      return z
 
-#### #Use random and use normalize:
+#### Use random and use normalize:
 
 x = x.random.random((5,5))
 
 s = normalize(x)
 
 
-#### #Save the array:
+#### Save the array:
 
 np.save('X_normalize.npy', s)
 
 
 
-# DIVISIBLE BY 3 PROBLEM:
+# PROBLEM 2:
 Create the following 10 x 10 ndarray.
 
 
@@ -63,17 +64,18 @@ From this ndarray, determine all the elements that are divisible by 3. Save the 
 
 This is how I make the array:
 
-## Array
+## Background
+#### Import Numerical python
 
 import numpy as np
 
-#### #Create a 10 x 10 array
+#### Create a 10 x 10 array
 x = np.linspace(1,100,100)
 
 x.resize(10,10)
 
-#### #Multiply the array by 3
+#### Multiply the array by 3
 z = x*3
 
-#### #Save the array
+#### Save the array
 np.save('div_by_3', z)
