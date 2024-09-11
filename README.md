@@ -44,8 +44,10 @@ Here are the steps on how is it done:
 
 ## Files
 To know whether it works or not, my codes are here:
-     
+     Normalization.ipynb
 
+Here is the saved array file:
+     X_Normalize
 
 
 # PROBLEM 2:
