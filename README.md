@@ -16,7 +16,7 @@ ndarray as X_normalized.npy
 
 
 ## Background
-Here are the steps onm how is it done:
+Here are the steps on how is it done:
 
 #### Import Numerical Python in the notebook:
     import numpy as np
