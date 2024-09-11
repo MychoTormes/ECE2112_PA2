@@ -22,7 +22,7 @@ Here are the steps on how is it done:
 #### Import Numerical Python in the notebook:
     import numpy as np
 
-#### Define normalize and use the formula:
+#### Define normalize and use the element-wise standard deviation and mean:
 
      def normalize(x):
 
@@ -83,7 +83,7 @@ Here are the following steps on how is it done:
 
      import numpy as np
 
-#### Create a 10 x 10 array:
+#### Create a 10 x 10 array using linspace and resize:
      x = np.linspace(1,100,100)
 
      x.resize(10,10)
