@@ -50,7 +50,7 @@ To know whether it works or not, my codes are here:
 
 Here is the saved array file:
      
-     X_Normalize.npy
+     X_normalize.npy
 
 ## Reference
      Numpy.ipynb
@@ -101,7 +101,7 @@ To know whether it works or not, my codes are here:
 
 Here is the saved array file:
       
-      Div_by_3.npy
+      div_by_3.npy
 
 ## Reference
      
