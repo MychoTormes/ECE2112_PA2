@@ -110,4 +110,4 @@ And
      
      Numpy Cheat Sheet.pdf
 
-## All of the answers worked for the Programming Assigment are made by Mycho Tormes
+### All of the answers worked for the Programming Assigment are made by Mycho Tormes
