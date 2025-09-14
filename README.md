@@ -19,10 +19,10 @@ ndarray as X_normalized.npy
 ## 🟢 Background
 Here are the steps on how is it done:
 
-#### Import Numerical Python in the notebook:
+#### 1) Import Numerical Python in the notebook:
     import numpy as np
 
-#### Define normalize and use the element-wise standard deviation and mean:
+#### 2) Define normalize and use the element-wise standard deviation and mean:
 
      def normalize(x):
 
@@ -32,14 +32,14 @@ Here are the steps on how is it done:
      
      return z
 
-#### Use random and then normalize array:
+#### 3) Use random and then normalize array:
 
      x = x.random.random((5,5))
 
      s = normalize(x)
 
 
-#### Save the array as a file:
+#### 4) Save the array as a file:
 
      np.save('X_normalize.npy', s)
 
@@ -78,19 +78,19 @@ From this ndarray, determine all the elements that are divisible by 3. Save the 
 ## 🟢 Background
 Here are the following steps on how is it done:
 
-#### Import Numerical python in the notebook
+#### 1) Import Numerical python in the notebook
 
      import numpy as np
 
-#### Create a 10 x 10 array using linspace and resize:
+#### 2) Create a 10 x 10 array using linspace and resize:
      x = np.linspace(1,100,100)
 
      x.resize(10,10)
 
-#### Multiply the array by 3:
+#### 3) Multiply the array by 3:
      z = x*3
 
-#### Save the array as a file:
+#### 4) Save the array as a file:
      np.save('div_by_3', z)
 
 ## 📌 Files
