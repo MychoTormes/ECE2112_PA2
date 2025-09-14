@@ -1,6 +1,6 @@
 # ECE2112_PA2: NUMERICAL PYTHON (NUMPY)
 
-# PROBLEM 1: 
+# 💻 PROBLEM 1: 
 #### Normalization Problem:
 Normalization is one of the most basic preprocessing techniques in
 data analytics. This involves centering and scaling process. Centering means subtracting the data from the
@@ -16,7 +16,7 @@ In this problem, create a random 5 x 5 ndarray and store it to variable X. Norma
 ndarray as X_normalized.npy
 
 
-## Background
+## 🟢 Background
 Here are the steps on how is it done:
 
 #### Import Numerical Python in the notebook:
@@ -43,7 +43,7 @@ Here are the steps on how is it done:
 
      np.save('X_normalize.npy', s)
 
-## Files
+## 📌 Files
 To know whether it works or not, my codes are here:
      
      Normalization.ipynb
@@ -52,13 +52,12 @@ Here is the saved array file:
      
      X_normalize.npy
 
-## Reference
-     Numpy.ipynb
-And
-     
-     Numpy Cheat Sheet.pdf
+## 📍 Reference  
 
-# PROBLEM 2:
+[Numpy Cheat Sheet](https://github.com/MychoTormes/ECE2112_PA2/blob/main/Numpy%20Cheat%20Sheet.pdf)
+
+
+# 💻 PROBLEM 2:
 #### Divisible By 3 Problem:
 Create the following 10 x 10 ndarray.
 
@@ -76,7 +75,7 @@ From this ndarray, determine all the elements that are divisible by 3. Save the 
 
 
 
-## Background
+## 🟢 Background
 Here are the following steps on how is it done:
 
 #### Import Numerical python in the notebook
@@ -94,7 +93,7 @@ Here are the following steps on how is it done:
 #### Save the array as a file:
      np.save('div_by_3', z)
 
-## Files
+## 📌 Files
 To know whether it works or not, my codes are here:
       
       Divisble by 3.ipynb
@@ -103,11 +102,8 @@ Here is the saved array file:
       
       div_by_3.npy
 
-## Reference
+## 📍 Reference
      
-     Numpy.ipynb
-And
-     
-     Numpy Cheat Sheet.pdf
+[Numpy Cheat Sheet.pdf](https://github.com/MychoTormes/ECE2112_PA2/blob/main/Numpy%20Cheat%20Sheet.pdf)
 
 ### All of the answers worked for the Programming Assigment are made by Mycho Tormes
