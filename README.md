@@ -46,7 +46,7 @@ Here are the steps on how is it done:
 ## 📌 Files
 To know whether it works or not, my codes are here:
      
-     Normalization.ipynb
+[Normalization.ipynb](https://github.com/MychoTormes/ECE2112_PA2/blob/main/Normalization.ipynb)
 
 Here is the saved array file:
      
