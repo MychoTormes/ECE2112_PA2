@@ -100,7 +100,7 @@ To know whether it works or not, my codes are here:
 
 Here is the saved array file:
       
-[div_by_3.npy]
+[div_by_3.npy](https://github.com/MychoTormes/ECE2112_PA2/blob/main/div_by_3.npy)
 
 ## 📍 Reference
      
