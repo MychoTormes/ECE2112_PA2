@@ -50,7 +50,7 @@ To know whether it works or not, my codes are here:
 
 Here is the saved array file:
      
-     X_normalize.npy
+[X_normalize.npy](https://github.com/MychoTormes/ECE2112_PA2/blob/main/X_normalize.npy)
 
 ## 📍 Reference  
 
