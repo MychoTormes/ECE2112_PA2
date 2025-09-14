@@ -96,11 +96,11 @@ Here are the following steps on how is it done:
 ## 📌 Files
 To know whether it works or not, my codes are here:
       
-      Divisble by 3.ipynb
+[Divisble by 3.ipynb](https://github.com/MychoTormes/ECE2112_PA2/blob/main/Divisible%20by%203.ipynb)
 
 Here is the saved array file:
       
-      div_by_3.npy
+[div_by_3.npy]
 
 ## 📍 Reference
      
